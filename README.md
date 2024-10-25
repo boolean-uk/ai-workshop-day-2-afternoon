@@ -22,6 +22,7 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
-- 
+- [React Survey](https://github.com/Yumikitsu/react-surveyAI)
+- [React Effect-Fetch](https://github.com/Yumikitsu/react-effect-for-fetchAI)
+- [Angular Todo-List](https://github.com/Yumikitsu/angular-todo-listAI)
+- [Angular Greengrocers](https://github.com/Yumikitsu/angular-greengrocersAI)
