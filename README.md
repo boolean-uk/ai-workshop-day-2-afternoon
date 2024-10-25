@@ -22,6 +22,5 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
-- 
+- https://github.com/thomaafl/here-comes-rock-v2
+  core game done, implemented ascii art using copilot
