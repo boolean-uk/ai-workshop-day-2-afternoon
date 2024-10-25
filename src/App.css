@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  padding-top: 60px; /* Adjust based on header height */
+  padding-bottom: 60px; /* Adjust based on footer height */
+}
+
+#menu {
+  padding: 2rem;
+}
+
+#menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#menu li {
+  margin: 0.5rem 0;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}

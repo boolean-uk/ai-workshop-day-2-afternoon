@@ -1,0 +1,32 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8b400; /* Same as menu background color */
+  padding: 1rem;
+  z-index: 1000; /* Ensure the header is above other content */
+}
+
+header h1 {
+  margin: 0;
+}
+
+header nav {
+  margin-top: 10px;
+  background-color: #f8b400; /* Same as menu background color */
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #242424; /* Change text color to #242424 */
+}
+
+/* Add padding to the top of the body to prevent content from being hidden behind the fixed header */
+body {
+  padding-top: 70px; /* Adjust this value based on the height of your header */
+}

@@ -1,0 +1,39 @@
+/* src/styles/Menu.css */
+.menu-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  margin-left: 50%; /* Center the container horizontally */
+  margin-bottom: 50%;
+  margin-right: auto; /* Center the container horizontally */
+  height: 100vh; /* Full viewport height */
+  text-align: center;
+}
+
+.menu-table,
+.special-offers-table {
+  width: 250%; /* Twice as wide as the original 80% */
+  margin: 0 auto;
+  border-collapse: collapse; /* Ensure borders are collapsed */
+}
+
+.menu-table th, .menu-table td,
+.special-offers-table th, .special-offers-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.menu-table th,
+.special-offers-table th {
+  background-color: #f8b400;
+  color: #242424;
+  text-align: left; /* Align text to the left */
+}
+
+.menu-table td,
+.special-offers-table td {
+  color: white; /* Change text color to white */
+  text-align: left; /* Align text to the left */
+}
