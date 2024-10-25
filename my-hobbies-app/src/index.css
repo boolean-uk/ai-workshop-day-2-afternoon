@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e0f7fa; /* Light cyan background */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /*IM setting my own here*/
+  background-image: url('https://images5.alphacoders.com/133/thumb-1920-1338264.png'); /* Optional: Add a marine background image */
+  background-size: cover;
+  background-position: center;
+}
+
+.App {
+  background: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+}
+
+h1 {
+  color: #00796b; /* Teal color */
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #004d40; /* Dark teal border */
+  border-radius: 4px;
+}
+
+button {
+  background-color: #00796b; /* Teal background */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #004d40; /* Dark teal on hover */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #b2dfdb; /* Light teal background */
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #004d40; /* Dark teal border */
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li input[type="number"] {
+  width: 50px;
+  margin-right: 10px;
+}
