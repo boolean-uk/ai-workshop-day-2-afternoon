@@ -22,6 +22,8 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
+- https://github.com/Valen98/ai-todo (React vite App) 
+![Copilot](Copilot-react-vite.png)
+- https://github.com/Valen98/ai-backend (Backend of Todo)
+![BackendApi](Copilot-backend-api.png)
 - 
