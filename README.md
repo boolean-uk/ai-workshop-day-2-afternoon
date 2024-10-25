@@ -22,6 +22,6 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
+- Todo list frontend using React: https://github.com/maaxolofsson/react-ai
+- React Address Book Part 2 with Copilot: https://github.com/maaxolofsson/react-address-book-part-2-copilot/
 - 
