@@ -22,6 +22,24 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
-- 
+- https://github.com/shyye/java-api-mvc-with-postgres-ai
+- https://github.com/shyye/java-api-cinema-challenge-ai
+
+---
+Setup steps (personal notes):
+1. Create a new repo, e.g. `original-name-ai`.
+2. Clone the original repo and name it the same as the new repo.
+```
+git clone `<SSH TO REPO>` `<new repo name, e.g. original-name-ai>`
+```
+1. Open git bash terminal in the folder for the cloned repo.  
+   Remove remote origin:
+```
+git remote remove origin
+```
+1. Add new origin / upstream to the newly created repo named some-original-name-ai:
+```
+git remote add origin <SSH TO REPO>
+git branch -M main
+git push -u origin main
+```
