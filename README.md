@@ -22,6 +22,5 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
-- 
+- https://github.com/FredrikEH/ai-generated-react-app/tree/main/my-app
+- https://github.com/FredrikEH/ai-generated-angular-app/tree/main/my-angular-app
