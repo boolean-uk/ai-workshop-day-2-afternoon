@@ -22,6 +22,6 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
+- Completed exercise with ai: https://github.com/OliverLundhAndersson/java-fundamentals-class-members/tree/ai
+- Completed exercise with ai: https://github.com/OliverLundhAndersson/java-fundamentals-lists/tree/ai
 - 
