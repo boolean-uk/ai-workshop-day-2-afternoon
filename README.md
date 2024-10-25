@@ -22,6 +22,11 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
-- 
-- 
+- [Create React Project](https://github.com/SimpFred/ai-react-create-project)
+  - Used this promt to generate whats in the repo: "I want to create a React project from scratch that can fetch data from localhost:4000/albums and display it in a nice way on localhost:4200."
+- [Poker Challange](https://github.com/SimpFred/java-poker-challenge)
+  - Solved the core and extension 1 & 2 for the poker challange by only using copilot.
+- [Styled previous created React Project](https://github.com/SimpFred/ai-react-create-project/tree/styling-using-ai)
+  - Styled the project by iterativ prompting to copilot.
+ 
+Use [This backend project](https://github.com/SimpFred/java-cloud-azure-day-1) to test the React project.
