@@ -22,7 +22,7 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 #### Links to Projects Solved using Copilot
 
-- 
+- https://github.com/shyye/java-api-mvc-with-postgres-ai
 - 
 
 ---
