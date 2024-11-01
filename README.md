@@ -1,5 +1,5 @@
 # AI for Software Development Day 2 Exercise
-
+https://github.com/DennisOsmani/csharp-api-cinema-challenge.git 
 ## Learning Objectives
 
 - Work with GitHub Copilot in VS Code
