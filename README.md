@@ -1,3 +1,5 @@
+
+https://github.com/KajaPlaszko/csharp-api-cinema-challenge.git
 # AI for Software Development Day 2 Exercise
 
 ## Learning Objectives
